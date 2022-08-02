@@ -17,9 +17,10 @@
 ## :desktop_computer: Technologies
 - Scrum
 - NPM
+- JavaScript
 - __Backend:__ Node.js, Express, Sequelize, Postman, REST API
 - __Database:__ PostgreSQL, SQL
-- __Frontend:__ React, Redux, HTML5, CSS3
+- __Frontend:__ React, Redux, HTML5, CSS3, Bootstrap
 
 ### :telephone_receiver::email: __Contáctame:__
 - __CEL:__ +54 3516137592
