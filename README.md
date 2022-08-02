@@ -12,7 +12,8 @@
 - Ingresa al repo [Aquí] (https://github.com/diegop1zarro/proyect-videogames)o al deployment [Aquí](https://videogame-app.vercel.app)
 ### Henry Shoes Pf
 - Ingresa al repo [Aquí] (https://github.com/alemosmusi/ecommerce) o al deployment [Aquí](https://app-henry-shoes.herokuapp.com)
-
+###  Dogs Pi
+- Ingresa al repo [Aquí] (https://github.com/diegop1zarro/proyect-Dogs)o al deployment [Aquí](https://deploy-dogs.vercel.app)
   
 ## :desktop_computer: Technologies
 - Scrum
