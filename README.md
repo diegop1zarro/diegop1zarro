@@ -5,7 +5,7 @@
 :large_blue_diamond: Ya que en henry en dónde he conseguido mis conocimientos,he aprendido también a tener ganas de un aprender continuamente, los alumnos salimos con altas habilidades técnicas, con ganas de superarnos, impulsar nuestro entorno, complementar y orientar al equipo.
 
 ## :running_man: Work experience
-
+:large_blue_diamond: Tengo experiencia en proyectos individuales, con manejos de API, también he trabajado en proyectos grupales para la instancia final del Bootcamp de Henry realizando un E-commerce, ha continuación mostraré esos proyectos.
 
 ## :rocket: Mis proyectos
 ###  Videogames Pi
